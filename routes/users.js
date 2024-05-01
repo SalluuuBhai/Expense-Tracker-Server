@@ -29,7 +29,8 @@ const {
 } = require("../common/auth.js");
 
 // API
-const API = "http://localhost:3000";
+// const API = "http://localhost:3000";
+const API = "https://expense-tracker-money-manager.netlify.app"
 
 
 // -------------------User Authentication Router --------------------------------
